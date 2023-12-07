@@ -19,3 +19,4 @@ dic.update(tupla)
 lista = ['data', '13/04/1996'],
 dic.update(lista)
 print(dic, dic2)
+
